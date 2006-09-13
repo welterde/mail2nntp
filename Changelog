@@ -1,0 +1,36 @@
+----------------------------
+revision 1.8
+date: 2003/06/19 23:53:08;  author: cpc6128;  state: Exp;  lines: +2 -2
+Updated year
+----------------------------
+revision 1.7
+date: 2003/06/16 23:14:18;  author: cpc6128;  state: Exp;  lines: +4 -4
+mode_reader before authentication for INNd (bug report by John P. Looney)
+----------------------------
+revision 1.6
+date: 2002/12/10 15:31:41;  author: cpc6128;  state: Exp;  lines: +3 -1
+Added X-User-Agent.
+----------------------------
+revision 1.5
+date: 2002/12/07 01:36:31;  author: cpc6128;  state: Exp;  lines: +7 -2
+Keep Content-Transfer-Encoding (thanks Leonid)
+----------------------------
+revision 1.4
+date: 2002/12/03 16:25:52;  author: cpc6128;  state: Exp;  lines: +4 -1
+mode_reader to ask server if posting
+----------------------------
+revision 1.3
+date: 2002/12/03 07:50:52;  author: cpc6128;  state: Exp;  lines: +22 -8
+Patch by Leonid Mamtchenkov (leonid at francoudi dot com)
+-debugmode switch to post for real
+-authmode switch to authentify on the NNTP server
+-Multiline Content-Type support
+----------------------------
+revision 1.2
+date: 2002/03/08 20:13:34;  author: cpc6128;  state: Exp;  lines: +4 -4
+Forget the newsgroups header
+----------------------------
+revision 1.1
+date: 2002/03/08 19:44:38;  author: cpc6128;  state: Exp;
+branches:  1.1.1;
+Initial revision
